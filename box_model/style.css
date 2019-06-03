@@ -1,0 +1,22 @@
+p{
+
+/*CONTENT - width and height*/
+/*width: 200px;*/
+width: 50%; /*if window size changes, the border size changes*/
+/*height: 200px;*/
+
+/*Borders*/
+border: 2px solid blue;
+
+/*Padding*/
+/*space between border and content*/ /*chrome inspect-> green*/
+padding: 10px;
+padding-left: 40px;
+/*Margin*/
+/*margin is space outside of the border between elements  */
+/*chrome inspect -> orange*/
+/* margin: 100px; */
+/* margin-top: 500px; */
+/* margin: 20px 40px 500px 100px;/*20px top,40px right, 500px bottom, 100px left margin */ */
+margin: 0 auto 0 auto;
+}
